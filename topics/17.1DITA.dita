@@ -4,10 +4,11 @@
   <title>DITA-related improvements and goodies in Oxygen 17.1 </title>
   <body>
     <p>I'm happy to announce this autumn the release of Oxygen 17.1. We've been quite buzy in the
-      last months working on it and we hope you'll enjoy it in your daily XML-related
+      last months working on it and w~e hope you'll enjoy it in your daily XML-related
       activities.</p>
     <p>Oxygen 17.1 comes with official support for the latest operating systems, Windows 10 and Mac
       OSX OS X El Capitan (10.11). </p>
+    ~
     <p>It also comes with a new user interface color theme called "Light" that makes the entire
       application interface look crisp and clean. Besides this, you now have the support to define
       custom color themes and share them with your team. </p>
